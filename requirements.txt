@@ -1,0 +1,9 @@
+# 核心依赖（CV 模板匹配模式）
+opencv-python>=4.5
+numpy>=1.20
+Pillow>=8.0
+PyAutoGUI>=0.9.50
+
+# OCR 扩展（可选，auto_ocr_player / OCR 模式需要）
+paddlepaddle>=2.4
+paddlehub>=2.3

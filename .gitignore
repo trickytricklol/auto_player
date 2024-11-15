@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# 运行产物（截图、OCR 可视化结果）
+screen/
+ocr_result/
+
+# 历史重写临时文件
+.backdate_map.txt
+.do_filter.sh
